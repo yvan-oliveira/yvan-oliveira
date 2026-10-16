@@ -112,6 +112,20 @@ Confira meus repositórios para acompanhar minha evolução na programação e m
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yvan-oliveira/yvan-oliveira/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yvan-oliveira/yvan-oliveira/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/yvan-oliveira/yvan-oliveira/output/github-contribution-grid-snake.svg" />
+</picture>
+
+*Em constante aprendizado, evoluindo um código de cada vez.* 🚀
+
+</div>
+
+---
+
+<div align="center">
+
 *Em constante aprendizado, buscando entender não apenas como programar, mas também como e por que os sistemas funcionam.* 🚀
 
 </div>
