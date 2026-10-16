@@ -1,14 +1,15 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Olá! Eu sou Yvan Oliveira de Jesus
 
-### 💻 Técnico em Desenvolvimento de Sistemas — Senac
+### 💻 Estudante de Desenvolvimento de Sistemas — Senac
 
-Estudante de tecnologia com interesse em desenvolvimento de software, programação e banco de dados.
+Estudante de programação apaixonado por tecnologia, desenvolvimento de software e por entender como os sistemas funcionam.
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;C%23+%7C+.NET+%7C+SQL;Aprendendo+e+construindo+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Python+%7C+C%23+%7C+.NET;Foco+em+Back-end+e+Banco+de+Dados)
 
-[![GitHub](https://img.shields.io/badge/GitHub-GiovanniBalestriCintra-181717?style=for-the-badge&logo=github)](https://github.com/GiovanniBalestriCintra)
+[![GitHub](https://img.shields.io/badge/GitHub-yvan--oliveira-181717?style=for-the-badge&logo=github)](https://github.com/yvan-oliveira)
+
 [![Senac](https://img.shields.io/badge/Senac-Desenvolvimento_de_Sistemas-004A8D?style=for-the-badge)](https://www.sp.senac.br/)
 
 </div>
@@ -17,82 +18,85 @@ Estudante de tecnologia com interesse em desenvolvimento de software, programaç
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, buscando aprimorar minhas habilidades em programação e ampliar meus conhecimentos na área de tecnologia.
+Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no Senac**, com interesse especial em desenvolvimento back-end, programação e bancos de dados.
 
 - 🎓 Técnico em Desenvolvimento de Sistemas — Senac
-- 💻 Interesse em desenvolvimento **back-end**
-- 🗄️ Estudando banco de dados e linguagem SQL
-- 🚀 Sempre buscando aprender novas tecnologias e evoluir como desenvolvedor
+- 🐍 Estudando Python e aprimorando minha lógica de programação
+- 💻 Desenvolvendo projetos com C# e .NET
+- 🗄️ Aprendendo modelagem de dados e SQL
+- 🧠 Estudando Programação Orientada a Objetos e boas práticas de desenvolvimento
+- 🚀 Objetivo: tornar-me desenvolvedor back-end e evoluir em arquitetura de software
 
 ---
 
 ## 🌱 Atualmente
 
-- 📚 Aprofundando C# e .NET com aplicações desktop
-- 🗄️ Praticando modelagem de dados e integração com banco de dados
-- 🧱 Aplicando Programação Orientada a Objetos nos projetos da faculdade
+- 📚 Aprofundando meus conhecimentos em Python
+- 💻 Praticando C#, .NET e Programação Orientada a Objetos
+- 🗄️ Estudando bancos de dados relacionais, SQL e MariaDB
+- 🔧 Desenvolvendo projetos acadêmicos e pessoais
+- 🏗️ Construindo uma base sólida para trabalhar com APIs e arquitetura back-end
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 🧠 Tecnologias e ferramentas
 
 <div align="center">
 
-| Área | Tecnologias |
-|------|-------------|
-| 💻 **Back-end** | C# · .NET |
-| 🗄️ **Banco de Dados** | MySQL · MariaDB · SQL |
-| 🛠️ **Ferramentas** | Git · GitHub · Visual Studio |
-| 🖥️ **Virtualização** | Oracle VirtualBox |
+### Linguagens e desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,git,github" alt="Tecnologias" />
-
-<br/><br/>
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Bancos de dados
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📁 Projetos em destaque
+## 📁 Projetos
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [🐾 PetShop-Amigo-Fiel](https://github.com/GiovanniBalestriCintra/PetShop-Amigo-Fiel) | Sistema para gerenciamento de pet shop | C# |
-| [🏦 SistamaBancarioOO-Senac](https://github.com/GiovanniBalestriCintra/SistamaBancarioOO-Senac) | Sistema bancário aplicando Orientação a Objetos | C# |
-| [🥖 tds02_padaria](https://github.com/GiovanniBalestriCintra/tds02_padaria) | Aplicação desktop com integração a banco de dados (UC7) | C# |
+Confira meus repositórios para acompanhar minha evolução na programação e meus projetos acadêmicos e pessoais.
+
+- 📚 [Biblioteca POO](https://github.com/yvan-oliveira/biblioteca-POO) — projeto em C#/.NET para praticar Programação Orientada a Objetos.
+- 💻 [Meus repositórios](https://github.com/yvan-oliveira?tab=repositories) — outros projetos, exercícios e estudos.
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GiovanniBalestriCintra&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBalestriCintra&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yvan-oliveira&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=GiovanniBalestriCintra&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvan-oliveira&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+
+<img src="https://streak-stats.demolab.com?user=yvan-oliveira&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+
+</div>
 
 ---
 
 ## 🎯 Objetivos
 
-- 📚 Aprofundar meus conhecimentos em **C#** e **.NET**
-- 🗄️ Evoluir em modelagem de dados, **MySQL** e **SQL**
-- 💡 Aprimorar minha lógica de programação
-- 🖥️ Aprender mais sobre sistemas e virtualização
-- 🚀 Crescer profissionalmente na área de desenvolvimento de software
+- 🐍 Dominar Python e fortalecer minha lógica de programação
+- 🏗️ Aprender desenvolvimento back-end e construção de APIs
+- 🗄️ Aprofundar meus conhecimentos em PostgreSQL, MariaDB e SQL
+- 💻 Evoluir em C#/.NET e boas práticas de programação
+- 🧠 Estudar arquitetura de software e desenvolvimento de sistemas escaláveis
+- 🚀 Construir uma carreira sólida como desenvolvedor de software
 
 ---
 
@@ -100,28 +104,14 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GiovanniBalestriCintra-GITHUB-2DA44E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiovanniBalestriCintra)
-
-[![Instagram](https://img.shields.io/badge/@gbalestri__-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gbalestri_)
-
-[![LinkedIn](https://img.shields.io/badge/giovannibalestricintra-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannibalestricintra)
-
-[![Email](https://img.shields.io/badge/giovanniibalestri@hotmail.com-HOTMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:giovanniibalestri@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-yvan--oliveira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yvan-oliveira)
 
 </div>
 
 ---
 
-
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanniBalestriCintra/GiovanniBalestriCintra/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanniBalestriCintra/GiovanniBalestriCintra/output/github-contribution-grid-snake.svg" />
-  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/GiovanniBalestriCintra/GiovanniBalestriCintra/output/github-contribution-grid-snake.svg" />
-</picture>
-
-*Em constante aprendizado, evoluindo um código de cada vez.* 🚀
+*Em constante aprendizado, buscando entender não apenas como programar, mas também como e por que os sistemas funcionam.* 🚀
 
 </div>
